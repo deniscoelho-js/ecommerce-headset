@@ -1,6 +1,6 @@
-![ecommerce](https://user-images.githubusercontent.com/83840866/150532835-4d32d0a8-9cbf-4654-aa09-6276ef252b12.gif)
-
 # Ecommerce Headset
+
+![ecommerce](https://user-images.githubusercontent.com/83840866/150532835-4d32d0a8-9cbf-4654-aa09-6276ef252b12.gif)
 
 ## O desafio
 
