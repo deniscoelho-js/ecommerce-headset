@@ -10,9 +10,9 @@ Criar um modelo de ecommerce para headset
 
 Este projeto foi desenvolvido utilizando as seguintes tecnologias:
 
-- [React]
-- [Javascript]
-- [SCSS]
+- [React]()
+- [Javascript]()
+- [SCSS]()
 
 ## Instalação e uso
 
